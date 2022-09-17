@@ -28,6 +28,6 @@ def send_mail(content, email):
 
 if __name__ == '__main__':
     message = '球球别卷啦'
-    email = '112123438@qq.com'
+    email = '1364538630@qq.com'
     send_mail(message, email)
 
